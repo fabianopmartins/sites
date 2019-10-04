@@ -1,0 +1,20 @@
+#subirTopo {
+text-decoration: none;
+bottom: 30px;
+right: 30px;
+color: #fff;
+text-align: center;
+cursor: pointer;
+padding: 0;
+font-size: 45px;
+font-weight: bold;
+text-transform: uppercase;
+position: fixed;
+border-radius: 40px;
+font-family: sans-serif;
+opacity: .8;
+}
+
+#subirTopo:hover {
+opacity:1;
+}
